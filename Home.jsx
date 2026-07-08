@@ -30,7 +30,7 @@ function Home() {
             <Link to="/contact" className="cta-button">
               Get in touch
             </Link>
-            <a href="/resume.pdf" className="cta-secondary" download>
+            <a href="/Smriddhi Gupta Resume.pdf" className="cta-secondary" download>
               Download resume
             </a>
           </div>
