@@ -26,7 +26,7 @@ npm run dev
 npm run build
 
 ## Live Site
-https://smriddhigupta28-portfolio.netlify.app/
+https://portfolio-smriddhigupta.netlify.app/
 
 ## Author
 Smriddhi Gupta
