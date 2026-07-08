@@ -24,5 +24,9 @@ npm install
 npm run dev
 4. Open the local URL shown in the terminal (e.g. `http://localhost:5173`) in your browser.
 npm run build
+
+## Live Site
+smriddhi-gupta-portfolio.netlify.app
+
 ## Author
 Smriddhi Gupta
