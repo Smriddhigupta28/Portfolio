@@ -68,7 +68,7 @@ function Home() {
               title="NLP Text Preprocessing Pipeline"
               description="Built a modular Python and NLTK tool that cleaned and analyzed a real WhatsApp chat of 4,940 messages, visualizing the top 20 most frequent words."
               tags={['Python', 'NLTK', 'Matplotlib']}
-              githubUrl="https://github.com/your-username/nlp-preprocessing-pipeline"
+              githubUrl="https://github.com/Smriddhigupta28/NLP-Preprocessing-Pipeline-Project"
             />
           </Reveal>
           <Reveal>
@@ -76,15 +76,23 @@ function Home() {
               title="Forest Performance Analysis"
               description="Analyzed forest datasets with Python, Pandas, and R-Studio to uncover trends in deforestation, biodiversity, and climate impact."
               tags={['Python', 'Pandas', 'R-Studio']}
-              githubUrl="https://github.com/your-username/forest-performance-analysis"
+              githubUrl="https://github.com/Smriddhigupta28/Forest-Performance-Analysis-Project"
             />
           </Reveal>
           <Reveal>
             <ProjectCard
-              title="Interactive Sport Statistics"
-              description="Designed an object-oriented Sport Infobot in Python enabling dynamic querying of league statistics and interactive quizzes."
-              tags={['Python', 'OOP', 'Jupyter']}
-              githubUrl="https://github.com/your-username/interactive-sport-statistics"
+              title="Random Forest: Machine Failure Prediction"
+              description="Trained a Random Forest classifier on 10,000 industrial sensor readings to predict machine failure, handling class imbalance with balanced weighting and evaluating performance with a classification report and confusion matrix."
+              tags={['Python', 'scikit-learn', 'Pandas']}
+              githubUrl="https://github.com/Smriddhigupta28/Random-Forest-Project"
+            />
+          </Reveal>
+          <Reveal>
+            <ProjectCard
+              title="World Cup Dataset: K-Means & Hierarchical Clustering"
+              description="Applied K-Means and hierarchical clustering to survey data on student World Cup preferences, using the elbow method to select cluster count and analyzing engagement profiles across fan segments."
+              tags={['Python', 'scikit-learn', 'SciPy']}
+              githubUrl="https://github.com/Smriddhigupta28/World-Cup-dataset-Project"
             />
           </Reveal>
         </div>
